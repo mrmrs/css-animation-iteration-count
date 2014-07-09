@@ -1,0 +1,29 @@
+{
+  "name": "css-animation-iteration-count",
+  "version": "0.0.1",
+  "homepage": "http://github.com/mrmrs/css-animation-iteration-count",
+  "description": "Css module of single purpose classes for animation iteration count",
+  "keywords": [
+    "css",
+    "oocss",
+    "",
+    ""
+  ],
+  "css-animation-iteration-count": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/css-animation-iteration-count.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/repo/issues",
+    "email": "hi@mrmrs.cc"
+  },
+  "author": {
+    "name": "Adam Morse",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "Adam Morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
