@@ -6,8 +6,7 @@
   "keywords": [
     "css",
     "oocss",
-    "",
-    ""
+    "animation-iteration-count"
   ],
   "css-animation-iteration-count": {
     "type": "git",
