@@ -27,7 +27,7 @@ or download the css on github and include in your project.
   .a-cnt4    { animation-iteration-count: 10; }
   .a-cnt-inf { animation-iteration-count: infinite; }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .a-cnt0-ns    { animation-iteration-count: 0; }
   .a-cnt1-ns    { animation-iteration-count: 1; }
   .a-cnt2-ns    { animation-iteration-count: 2; }
@@ -37,7 +37,7 @@ or download the css on github and include in your project.
   .a-cnt-inf-ns { animation-iteration-count: infinite; }
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .a-cnt0-m    { animation-iteration-count: 0; }
   .a-cnt1-m    { animation-iteration-count: 1; }
   .a-cnt2-m    { animation-iteration-count: 2; }
@@ -47,7 +47,7 @@ or download the css on github and include in your project.
   .a-cnt-inf-m { animation-iteration-count: infinite; }
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .a-cnt0-l    { animation-iteration-count: 0; }
   .a-cnt1-l    { animation-iteration-count: 1; }
   .a-cnt2-l    { animation-iteration-count: 2; }
