@@ -9,13 +9,18 @@
 *  -l  = large
 
 ## Install
+Grab the css partial from github and include it in your project or alternatively
+you can install it via npm:
 ```
 npm install --save-dev css-animation-iteration-count
 ```
-or download the css on github and include in your project.
+View on [npm](https://www.npmjs.org/package/css-animation-iteration-count)
+
 
 ## File Size
 
+1.5K animation-iteration-count.css
+1.2K animation-iteration-count.min.css
 
 ## The Code
 ```
