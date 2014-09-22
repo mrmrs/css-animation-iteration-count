@@ -20,7 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-animation-iteration-count)
 ## File Size
 
 1.5K animation-iteration-count.css
-1.2K animation-iteration-count.min.css
+1.2K animation-iteration-count.min.css 
+221B minified and gzipped
 
 ## The Code
 ```
