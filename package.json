@@ -1,7 +1,7 @@
 {
   "name": "css-animation-iteration-count",
   "style": "animation-iteration-count.css",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "http://github.com/mrmrs/css-animation-iteration-count",
   "description": "Css module of single purpose classes for animation iteration count",
   "keywords": [
