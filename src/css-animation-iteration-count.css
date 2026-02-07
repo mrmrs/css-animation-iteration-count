@@ -11,13 +11,13 @@
   .a-cnt-inf { animation-iteration-count: infinite; }
 
 @media screen and (min-width: 48em) {
-  .a-cnt0-ns    { animation-iteration-count: 0; }
-  .a-cnt1-ns    { animation-iteration-count: 1; }
-  .a-cnt2-ns    { animation-iteration-count: 2; }
-  .a-cnt3-ns    { animation-iteration-count: 4; }
-  .a-cnt3-ns    { animation-iteration-count: 5; }
-  .a-cnt4-ns    { animation-iteration-count: 10; }
-  .a-cnt-inf-ns { animation-iteration-count: infinite; }
+  .a-cnt0-s    { animation-iteration-count: 0; }
+  .a-cnt1-s    { animation-iteration-count: 1; }
+  .a-cnt2-s    { animation-iteration-count: 2; }
+  .a-cnt3-s    { animation-iteration-count: 4; }
+  .a-cnt3-s    { animation-iteration-count: 5; }
+  .a-cnt4-s    { animation-iteration-count: 10; }
+  .a-cnt-inf-s { animation-iteration-count: infinite; }
 }
 
 @media screen and (min-width:48em) and (max-width: 64em) {
