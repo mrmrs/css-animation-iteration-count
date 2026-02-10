@@ -1,101 +1,101 @@
-.a-cnt0 {
+.a-count0 {
   animation-iteration-count: 0;
 }
 
-.a-cnt1 {
+.a-count1 {
   animation-iteration-count: 1;
 }
 
-.a-cnt2 {
+.a-count2 {
   animation-iteration-count: 2;
 }
 
-.a-cnt3 {
+.a-count3 {
   animation-iteration-count: 5;
 }
 
-.a-cnt4 {
+.a-count4 {
   animation-iteration-count: 10;
 }
 
-.a-cnt-inf {
+.a-count-infinite {
   animation-iteration-count: infinite;
 }
 
 @media screen and (width >= 32em) {
-  .a-cnt0-s {
+  .a-count0-s {
     animation-iteration-count: 0;
   }
 
-  .a-cnt1-s {
+  .a-count1-s {
     animation-iteration-count: 1;
   }
 
-  .a-cnt2-s {
+  .a-count2-s {
     animation-iteration-count: 2;
   }
 
-  .a-cnt3-s {
+  .a-count3-s {
     animation-iteration-count: 5;
   }
 
-  .a-cnt4-s {
+  .a-count4-s {
     animation-iteration-count: 10;
   }
 
-  .a-cnt-inf-s {
+  .a-count-infinite-s {
     animation-iteration-count: infinite;
   }
 }
 
 @media screen and (width >= 48em) {
-  .a-cnt0-m {
+  .a-count0-m {
     animation-iteration-count: 0;
   }
 
-  .a-cnt1-m {
+  .a-count1-m {
     animation-iteration-count: 1;
   }
 
-  .a-cnt2-m {
+  .a-count2-m {
     animation-iteration-count: 2;
   }
 
-  .a-cnt3-m {
+  .a-count3-m {
     animation-iteration-count: 5;
   }
 
-  .a-cnt4-m {
+  .a-count4-m {
     animation-iteration-count: 10;
   }
 
-  .a-cnt-inf-m {
+  .a-count-infinite-m {
     animation-iteration-count: infinite;
   }
 }
 
 @media screen and (width >= 96em) {
-  .a-cnt0-l {
+  .a-count0-l {
     animation-iteration-count: 0;
   }
 
-  .a-cnt1-l {
+  .a-count1-l {
     animation-iteration-count: 1;
   }
 
-  .a-cnt2-l {
+  .a-count2-l {
     animation-iteration-count: 2;
   }
 
-  .a-cnt3-l {
+  .a-count3-l {
     animation-iteration-count: 5;
   }
 
-  .a-cnt4-l {
+  .a-count4-l {
     animation-iteration-count: 10;
   }
 
-  .a-cnt-inf-l {
+  .a-count-infinite-l {
     animation-iteration-count: infinite;
   }
 }
